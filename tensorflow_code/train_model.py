@@ -9,9 +9,6 @@ _CSV_COLUMNS = [
     'income_bracket'
 ]
 
-_CSV_COLUMN_DEFAULTS = [[0], [''], [0], [''], [0], [''], [''], [''], [''],
-                        [''], [0], [0], [0], [''], ['']]
-
 label_column = 'income_bracket'
 
 
